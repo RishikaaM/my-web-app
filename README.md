@@ -45,6 +45,7 @@ category (string): The category of clothing (e.g., top, bottom).
 color (string): The color of the clothing item (e.g., black, red).
 
 - **Sample Request:**
+```http
 GET /clothing?category=top&color=black
 
 -  **Sample Response:**
@@ -75,7 +76,7 @@ This project is licensed under the MIT License.
 3. **Paste the copied content** directly into your `README.md` file.
 4. **Save the file.**
 
-This `README.md` now includes your deployed URL and provides a comprehensive overview of your web service. If you need further modifications or assistance, just let me know!
+This `README.md` now includes my deployed URL and provides a comprehensive overview of your web service. 
 
 
 
