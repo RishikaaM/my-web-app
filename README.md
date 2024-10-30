@@ -45,7 +45,6 @@ category (string): The category of clothing (e.g., top, bottom).
 color (string): The color of the clothing item (e.g., black, red).
 
 - **Sample Request:**
-```http
 GET /clothing?category=top&color=black
 
 -  **Sample Response:**
