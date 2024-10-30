@@ -17,7 +17,6 @@ This is a simple web service built with Node.js and Express that provides inform
   - `level` (string): The course level (e.g., `200` for a 200-level course).
 
 - **Sample Request:**
-  ```http
   GET /courses/CS/200
 
 -  **Sample Response:**
